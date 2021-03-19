@@ -11,4 +11,4 @@
 
 ### 👀 Github stats
 
-<p align="left"><img width="30%" src="https://github-readme-stats.vercel.app/api?username=vatsalroot&show_icons=true&theme=tokyonight" /></p>
+<p align="left"><img width="35%" src="https://github-readme-stats.vercel.app/api?username=vatsalroot&show_icons=true&theme=tokyonight" /></p>
