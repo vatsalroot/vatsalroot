@@ -1,5 +1,3 @@
-<p align="left"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>  
-
 ### 🤙  Whoami 
 - <b> I'm Vatsal, A random tech guy who knows how to exit the vim.
 
